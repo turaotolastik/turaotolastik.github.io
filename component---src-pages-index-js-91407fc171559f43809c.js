@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{RXBc:function(t,e,n){"use strict";n.r(e);var a=n("q1tI"),r=n.n(a),c=n("Bl7J"),u=n("vrFN");e.default=function(){return r.a.createElement(c.a,null,r.a.createElement(u.a,{title:"Tura Oto Lastik"}))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-91407fc171559f43809c.js.map
